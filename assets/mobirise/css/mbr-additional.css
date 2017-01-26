@@ -472,6 +472,3 @@ h6,
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#features1-b .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
