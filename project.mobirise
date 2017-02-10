@@ -58,7 +58,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true
           },
           "media": {
@@ -197,7 +197,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "Goals"
+          "meta": "Biography"
         },
         {
           "_inherit": "features3",
