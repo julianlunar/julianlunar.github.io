@@ -21,11 +21,8 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 42,
-    "versionPublish": "3.11.1",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "uniqCompNum": 46,
+    "versionPublish": "3.11.1"
   },
   "pages": {
     "index.html": {
@@ -61,7 +58,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
@@ -83,7 +80,7 @@
             }
           },
           "title": "Julian Lunar&nbsp;",
-          "text": "&nbsp; &nbsp;My Name is Julian Andrew Lunar and in the future i want to work for Microsoft Studios or desgin high end veichles and start my own cars sells and investment company as CEO .",
+          "text": "&nbsp; &nbsp;My Name is Julian Andrew Lunar and in the future i want to work for Microsoft Studios or desgin high end vehicles and start my own car sales and invest my in own car company as CEO .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -156,10 +153,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-192x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -167,8 +167,7 @@
               "name": "user",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -225,8 +224,8 @@
           },
           "_anchor": "features6-q",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -307,7 +306,7 @@
             }
           },
           "title4": "",
-          "subtitle4": "<p><b>Own and Develop My own car&nbsp;Industry</b></p><br><p>People are interested in working for others to make a living but what about being yor own boss your own CEO and thats something I want to accomplish more than anything i want to buy and sell or maybe even create and distrubute high-end vehicles.</p><p><b><br></b></p><p><b><br></b></p><br><p><b><br></b></p>",
+          "subtitle4": "<p><b>Own and Develop My own Automotive Industry</b></p><br><p>People are interested in working for others to make a living but what about being yor own boss your own CEO and thats something I want to accomplish more than anything i want to buy and sell or maybe even create and distrubute high-end vehicles.</p><p><b><br></b></p><p><b><br></b></p><br><p><b><br></b></p>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -338,6 +337,46 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-19",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Im Gay",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My name is Julian Andrew Lunar and in the future i want to work for microsoft studios or design high end vehicles and start my own car sales and invest in my own car company as CEO. I want to start off by sharing a story of mine since I was a young boy i loved cars and even bought toys of exotic vehicles to keep as a collection and I thought about how they were built and then i learned how cylinders and pistons worked on vehicle and all that cool&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
           "_tags": [
@@ -484,7 +523,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/julian-lunar-discuss-it-topic-6-2000x1486-800x594.jpg",
-                "image": "@PROJECT_PATH@/assets/images/julian%20lunar%20discuss%20it%20topic%206-2000x1486.jpg",
+                "image": "@PROJECT_PATH@/assets/images/julian-lunar-discuss-it-topic-6-2000x1486.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -659,6 +698,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#000000"
             }
           },
           "_anchor": "form1-15",
@@ -678,7 +720,7 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Questions Or Concrens...",
           "form": {
             "action": "jlunar@miamiartsstudio.com",
             "alerts": {
