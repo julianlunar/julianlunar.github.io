@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 72,
+    "uniqCompNum": 75,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -980,7 +980,7 @@
           },
           "title": "Julian Lunar&nbsp;",
           "text": "&nbsp; &nbsp;My Name is Julian Andrew Lunar and in the future i want to work for Microsoft Studios or desgin high end vehicles and start my own car sales and invest my in own car company as CEO .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"introduction.html#msg-box3-1s\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"introduction.html#msg-box3-22\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -1104,24 +1104,7 @@
             "Theme"
           ],
           "_name": "features6",
-          "_styles": {
-            "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "18px",
-              "color": "#232323"
-            },
-            "H4": {
-              "text-align": "center"
-            },
-            "H5": {
-              "color": "#000000",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "features6-1r",
+          "_anchor": "features6-21",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -1137,10 +1120,10 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false
           },
@@ -1156,10 +1139,10 @@
               "color": "#2c82c9"
             }
           },
-          "title1": "Earn a Masters Degree in the Automotive Design Industry<br>",
-          "subtitle1": "<p><span style=\"line-height: 1.7857;\">In the career im striving for I&nbsp;</span><span style=\"font-size: large; line-height: 1.7857; color: rgb(0, 0, 0);\">need to start somewhere and&nbsp;</span><span style=\"font-size: large; line-height: 1.7857; color: rgb(0, 0, 0);\">something to prove my skills and if i committ to it&nbsp;</span><span style=\"font-size: large; line-height: 1.7857; color: rgb(0, 0, 0);\">my masters degree maybe somewhere to kick off.</span><br></p><p><span style=\"line-height: 32px; color: rgb(0, 0, 0); font-size: large;\"><br></span></p>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title1": "Earn a Masters Degreein the Automotive Design Industry&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "In the career I’m striving for I need to start somewhere and something to prove my skills and if I commit to it my master’s degree maybe somewhere to kick off.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -1172,25 +1155,26 @@
               "color": "#2c82c9"
             }
           },
-          "title2": "",
-          "subtitle2": "",
-          "caption2": "<b>Become a car Designer</b><br><i>With my masters I will strive to prove my skill and become a car designer&nbsp;<br>for high end cars like Mercades Benz,<br>Tesla, Lamborghini, or Porsche.</i>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "title2": "Become a car Designer",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "With my masters I will strive to prove my skill and become a car designer for high end cars like Mercedes Benz,<br>Tesla, Lamborghini, or Porsche.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
               "name": "windows",
-              "family": "socicon",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "",
+              "newWindow": false,
               "color": "#2c82c9"
             }
           },
-          "title3": "",
-          "subtitle3": "<b>Work with Microsoft Studios</b><br>As a young boy I loved video games <br>and stil do like most young boys but I<br>Want to make it a goal to work for microsoft studios one most popular and top grossing gaming developers and make games for people to charish and enjoy.",
-          "caption3": "",
+          "title3": "Work with Microsoft Studios",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "As a young boy I loved video games and still do like most young boys but I Want to make it a goal to work for Microsoft studios one most popular and top grossing gaming developers and make games for people to cherish and enjoy",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1204,9 +1188,9 @@
               "color": "#2c82c9"
             }
           },
-          "title4": "",
-          "subtitle4": "<p><b>Own and Develop My own Automotive Industry &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><span style=\"line-height: 1.7857;\">People are interested in working for others to make a living but what about being yor own boss your own CEO and thats something I want to accomplish more than anything i want to buy and sell or maybe even create and distrubute high-end vehicles.</span></p><p><b><br></b></p><p><b><br></b></p><br><p><b><br></b></p>",
-          "caption4": "",
+          "title4": "Own and Develop my own Automotive Industry",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "People are interested in working for others to make a living but what about being your own boss your own CEO and that’s something I want to accomplish more than anything I want to buy and sell or maybe even create and distribute high-end vehicles",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1242,19 +1226,16 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
-            },
-            ".lead B": {
-              "text-align": "left"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-1s",
+          "_anchor": "msg-box3-22",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -1271,8 +1252,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Biography<br><br>",
-          "text": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My name is Julian Andrew Lunar and in the future i want to work for microsoft studios or design high end vehicles and start my own car sales and invest in my own car company as CEO. I want to start off by sharing a story of mine since I was a young boy i loved cars and even bought toys of exotic vehicles to keep as a collection and I thought about how they were built. Then I learned how cylinders and pistons worked on vehicles and all that cool stuff and from there my interest grew. But aside from cars I loved video games and remebering how happy I was playing them and thats why one of my future goals is to work for microsoft studios to make other kids like me feel happy. </b>&nbsp; &nbsp;",
+          "title": "Biography",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; My name is Julian Andrew Lunar and in the future i want to work for microsoft studios or design high end vehicles and start my own car sales and invest in my own car company as CEO. I want to start off by sharing a story of mine since I was a young boy i loved cars and even bought toys of exotic vehicles to keep as a collection and I thought about how they were built. Then I learned how cylinders and pistons worked on vehicles and all that cool stuff and from there my interest grew. But aside from cars I loved video games and remebering how happy I was playing them and thats why one of my future goals is to work for microsoft studios to make other kids like me feel happy.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
