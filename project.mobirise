@@ -22,12 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 76,
-    "versionPublish": "3.11.1",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "gitHubName": "julianlunar",
-    "gitHubPath": ""
+    "versionPublish": "3.11.1"
   },
   "pages": {
     "index.html": {
@@ -752,17 +747,17 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/blueprint-final-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/blueprint%20final-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blueprint-final-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x2014-800x805.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x2014.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -771,8 +766,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-6-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-6-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -781,10 +776,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-7-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-7-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
