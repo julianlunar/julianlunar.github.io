@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -23,10 +23,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 76,
-    "versionPublish": "3.12.1",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
@@ -128,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\" target=\"_blank\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Adobe Premier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Adobe Animte</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MIcrosoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://julianlunar.github.io/Julian Lunar Discuss IT Topic 6.pdf\">Disscuss It 6<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gmetrix</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Reference</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teachers</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact me.html\">CONTACT ME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\" target=\"_blank\">Introduction</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\" aria-expanded=\"false\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\" aria-expanded=\"false\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Adobe Premier</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Adobe Animte</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MIcrosoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PowerPoint</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://julianlunar.github.io/Julian Lunar Discuss IT Topic 6.pdf\">Disscuss It 6<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gmetrix</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Reference</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teachers</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"contact me.html\">CONTACT ME</a></li>"
         },
         {
           "_tags": [
@@ -991,7 +988,7 @@
             "imageSize": "46",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rdb-la-squeezed-660-hp-from-this-wicked-bmw-m5-photo-gallery-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/lexus-lf-lc-blue-concept-rear-three-quarters-left-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1027,7 +1024,7 @@
           },
           "title": "Julian Lunar&nbsp;",
           "text": "&nbsp; &nbsp;My Name is Julian Andrew Lunar and in the future i want to work for Microsoft Studios or desgin high end vehicles and start my own car sales and invest my in own car company as CEO .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"introduction.html#msg-box3-22\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"introduction.html#msg-box3-22\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "menu",
@@ -1183,7 +1180,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#27e0dd"
+              "color": "#2c82c9"
             }
           },
           "title1": "Earn a Masters Degreein the Automotive Design Industry&nbsp;",
@@ -1199,7 +1196,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#27e0dd"
+              "color": "#2c82c9"
             }
           },
           "title2": "Become a car Designer",
@@ -1216,7 +1213,7 @@
               "link": "https://mobirise.com",
               "size": "",
               "newWindow": false,
-              "color": "#27e0dd"
+              "color": "#2c82c9"
             }
           },
           "title3": "Work with Microsoft Studios",
@@ -1232,7 +1229,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#27e0dd"
+              "color": "#2c82c9"
             }
           },
           "title4": "Own and Develop my own Automotive Industry",
@@ -1322,11 +1319,11 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3-37-e1426009993418-2000x2666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/161217142809-2017-cars-lexus-2-super-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
           "logo": {
