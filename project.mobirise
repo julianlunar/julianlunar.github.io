@@ -23,11 +23,6 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 77,
     "versionPublish": "3.11.1",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "gitHubName": "julianlunar",
-    "gitHubPath": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -126,8 +121,9 @@
               "linkInNewWindow": false,
               "name": "user",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "introduction.html",
+              "size": 0,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -754,7 +750,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/blueprint-final-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/blueprint%20final-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blueprint-final-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1115,8 +1111,9 @@
               "linkInNewWindow": false,
               "name": "user",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -1344,8 +1341,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
