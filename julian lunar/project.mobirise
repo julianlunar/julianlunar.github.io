@@ -25,7 +25,10 @@
     "uniqCompNum": 83,
     "versionPublish": "3.12.1",
     "path": "file:///C:/Users/RICHARD/Desktop/julianlunar.github.io-master",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -157,7 +160,7 @@
           },
           "title": "Julian Lunar",
           "text": "Renovate, Design, Create",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enter</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enter</a> "
         },
         {
           "_inherit": "content5",
