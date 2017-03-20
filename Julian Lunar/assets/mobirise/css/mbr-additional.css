@@ -473,81 +473,20 @@ h6,
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#content8-1w .mbr-section-title,
-#content8-1w p {
+#content8-2c .mbr-section-title,
+#content8-2c p {
   text-align: right;
   color: #fff;
 }
-#social-buttons4-23 .mbr-section-title,
-#social-buttons4-23 .btn-social {
+#social-buttons4-2e .mbr-section-title,
+#social-buttons4-2e .btn-social {
   color: #fff;
 }
-#ext_menu-13 .hide-buttons .nav-btn {
-  display: none !important;
+#contacts1-1t SPAN {
+  color: #efefef;
 }
-#ext_menu-13 .navbar-caption {
+#contacts1-1t STRONG {
   color: #ffffff;
-}
-#ext_menu-13 .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-13 .close-icon::before,
-#ext_menu-13 .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-13 .link,
-#ext_menu-13 .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-13 .link {
-  font-size: 0.85rem;
-}
-#ext_menu-13 .dropdown-item,
-#ext_menu-13 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
-}
-#ext_menu-13 .link:hover,
-#ext_menu-13 .dropdown-item:hover,
-#ext_menu-13 .link:focus,
-#ext_menu-13 .dropdown-item:focus {
-  color: #c0a375;
-}
-#ext_menu-13 .link[aria-expanded="true"],
-#ext_menu-13 .dropdown-menu {
-  background: #0e0e0e;
-}
-#ext_menu-13 .nav-dropdown-sm .link:focus,
-#ext_menu-13 .nav-dropdown-sm .link:hover,
-#ext_menu-13 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-13 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#ext_menu-13 .navbar,
-#ext_menu-13 .nav-dropdown-sm,
-#ext_menu-13 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-13 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#ext_menu-13 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-13 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-13 .bg-color.transparent.opened .link:hover,
-#ext_menu-13 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#ext_menu-13 .link[aria-expanded="true"],
-#ext_menu-13 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#form1-15 .form-control-label {
-  color: #232323;
-}
-#form1-15 SMALL {
-  color: #000000;
 }
 #ext_menu-1e .hide-buttons .nav-btn {
   display: none !important;
