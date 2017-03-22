@@ -24,8 +24,7 @@
     "uniqCompNum": 89,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
