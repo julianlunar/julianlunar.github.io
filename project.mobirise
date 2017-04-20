@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "imagne dragons.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,10 @@
     "uniqCompNum": 104,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -1797,7 +1800,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": false,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -1806,7 +1809,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/7NlqADjndw0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
